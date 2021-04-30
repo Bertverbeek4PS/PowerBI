@@ -1,0 +1,26 @@
+{
+  "id": "38e9e816-393e-4d6e-807a-2ce62c85b061",
+  "name": "PowerBI",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://PowerBI.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
